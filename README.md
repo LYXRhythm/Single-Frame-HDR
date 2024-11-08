@@ -9,7 +9,9 @@
 pip install -r requirements.txt
 ```
 ### 数据集获取
-下载将数据集放在dataset文件夹下，标准结构数据集文件夹下要存在input_test,target_test
+下载链接：https://pan.baidu.com/s/1W8Rspl0dWMsBDwxeCJp9sQ?pwd=3bzp 
+提取码：3bzp 
+。将数据集放在dataset文件夹下，标准结构数据集文件夹下要存在input_test,target_test
 ### 启动程序
 选择数据集，数据集下有input_test,target_test。选择权重文件夹，要求权重文件夹下存在dark.pth,bright.pth。示例选择all_pth。
 ```
